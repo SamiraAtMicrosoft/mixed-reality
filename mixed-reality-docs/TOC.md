@@ -6,7 +6,7 @@
 ### [San Francisco Reactor Academy events calendar](sf-academy-events.md)
 ### [Mixed Reality Dev Days](mr-dev-days.md)
 #### [Session Recordings](mr-dev-days-sessions.md)
-## [Current mixed reality release notes](release-notes-may-2019.md)
+## [Current mixed reality release notes](release-notes-may-2020.md)
 ## [Community Resources](community.md)
 ## [Contributing to this documentation](CONTRIBUTING.md)
 # Discover
